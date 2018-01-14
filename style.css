@@ -1,0 +1,26 @@
+.section{
+	background-color: #22B573;
+	background-color: #006837;
+	border: solid;
+	width: 1286px;
+	height: 700px;
+
+}
+.header{
+	width: 900px;
+	height: 48px;
+	margin-top: 40px;
+}
+
+.navigation ul li{
+	font-size: 48px;
+	text-transform: uppercase;
+	color: white;
+	display: inline-block;
+	margin-left: 40px;
+
+}
+img{
+	height: 660px;
+	position: relative;
+}
